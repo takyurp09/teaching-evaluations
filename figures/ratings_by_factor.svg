@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="440" font-family="Helvetica,Arial,sans-serif" font-size="13">
+<rect width="760" height="440" fill="#ffffff"/>
+<text x="20" y="28" font-size="16" font-weight="bold" fill="#1f2937">Student ratings by factor (n = 43)</text>
+<rect x="190" y="40" width="12" height="12" fill="#1d4ed8"/><text x="207" y="51" fill="#374151">Excellent</text>
+<rect x="320" y="40" width="12" height="12" fill="#93c5fd"/><text x="337" y="51" fill="#374151">Very Good</text>
+<rect x="450" y="40" width="12" height="12" fill="#d1d5db"/><text x="467" y="51" fill="#374151">Good or below</text>
+<text x="180" y="85" text-anchor="end" fill="#1f2937">Overall experience</text>
+<rect x="190.0" y="70" width="338.8" height="20" fill="#1d4ed8"/>
+<rect x="528.8" y="70" width="109.3" height="20" fill="#93c5fd"/>
+<rect x="638.1" y="70" width="21.9" height="20" fill="#d1d5db"/>
+<text x="670" y="85" fill="#1f2937">95%</text>
+<text x="180" y="115" text-anchor="end" fill="#1f2937">Class Contents</text>
+<rect x="190.0" y="100" width="317.0" height="20" fill="#1d4ed8"/>
+<rect x="507.0" y="100" width="109.3" height="20" fill="#93c5fd"/>
+<rect x="616.3" y="100" width="43.7" height="20" fill="#d1d5db"/>
+<text x="670" y="115" fill="#1f2937">91%</text>
+<text x="180" y="145" text-anchor="end" fill="#1f2937">Teaching Style</text>
+<rect x="190.0" y="130" width="371.6" height="20" fill="#1d4ed8"/>
+<rect x="561.6" y="130" width="98.4" height="20" fill="#93c5fd"/>
+<rect x="660.0" y="130" width="0.0" height="20" fill="#d1d5db"/>
+<text x="670" y="145" fill="#1f2937">100%</text>
+<text x="180" y="175" text-anchor="end" fill="#1f2937">Effort</text>
+<rect x="190.0" y="160" width="415.3" height="20" fill="#1d4ed8"/>
+<rect x="605.3" y="160" width="43.7" height="20" fill="#93c5fd"/>
+<rect x="649.1" y="160" width="10.9" height="20" fill="#d1d5db"/>
+<text x="670" y="175" fill="#1f2937">98%</text>
+<text x="180" y="205" text-anchor="end" fill="#1f2937">Discipline</text>
+<rect x="190.0" y="190" width="382.6" height="20" fill="#1d4ed8"/>
+<rect x="572.6" y="190" width="65.6" height="20" fill="#93c5fd"/>
+<rect x="638.1" y="190" width="21.9" height="20" fill="#d1d5db"/>
+<text x="670" y="205" fill="#1f2937">95%</text>
+<text x="180" y="235" text-anchor="end" fill="#1f2937">Fairness</text>
+<rect x="190.0" y="220" width="295.1" height="20" fill="#1d4ed8"/>
+<rect x="485.1" y="220" width="120.2" height="20" fill="#93c5fd"/>
+<rect x="605.3" y="220" width="54.7" height="20" fill="#d1d5db"/>
+<text x="670" y="235" fill="#1f2937">88%</text>
+<text x="180" y="265" text-anchor="end" fill="#1f2937">Punctuality</text>
+<rect x="190.0" y="250" width="371.6" height="20" fill="#1d4ed8"/>
+<rect x="561.6" y="250" width="76.5" height="20" fill="#93c5fd"/>
+<rect x="638.1" y="250" width="21.9" height="20" fill="#d1d5db"/>
+<text x="670" y="265" fill="#1f2937">95%</text>
+<text x="180" y="295" text-anchor="end" fill="#1f2937">Ensuring Equality</text>
+<rect x="190.0" y="280" width="349.8" height="20" fill="#1d4ed8"/>
+<rect x="539.8" y="280" width="98.4" height="20" fill="#93c5fd"/>
+<rect x="638.1" y="280" width="21.9" height="20" fill="#d1d5db"/>
+<text x="670" y="295" fill="#1f2937">95%</text>
+<text x="180" y="325" text-anchor="end" fill="#1f2937">Accessibility</text>
+<rect x="190.0" y="310" width="404.4" height="20" fill="#1d4ed8"/>
+<rect x="594.4" y="310" width="54.7" height="20" fill="#93c5fd"/>
+<rect x="649.1" y="310" width="10.9" height="20" fill="#d1d5db"/>
+<text x="670" y="325" fill="#1f2937">98%</text>
+<text x="180" y="355" text-anchor="end" fill="#1f2937">Class Discussion</text>
+<rect x="190.0" y="340" width="338.8" height="20" fill="#1d4ed8"/>
+<rect x="528.8" y="340" width="98.4" height="20" fill="#93c5fd"/>
+<rect x="627.2" y="340" width="32.8" height="20" fill="#d1d5db"/>
+<text x="670" y="355" fill="#1f2937">93%</text>
+<text x="180" y="385" text-anchor="end" fill="#1f2937">Teaching Knowledge</text>
+<rect x="190.0" y="370" width="317.0" height="20" fill="#1d4ed8"/>
+<rect x="507.0" y="370" width="142.1" height="20" fill="#93c5fd"/>
+<rect x="649.1" y="370" width="10.9" height="20" fill="#d1d5db"/>
+<text x="670" y="385" fill="#1f2937">98%</text>
+<text x="20" y="428" font-size="11" fill="#6b7280">Percent = share rating Excellent or Very Good. Instructor-administered anonymous survey, Dhaka School of Economics, 2021.</text></svg>
