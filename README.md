@@ -50,8 +50,7 @@ Lightly edited for punctuation and capitalization.
 
 - [`Teaching_Evaluation_Summary.pdf`](Teaching_Evaluation_Summary.pdf): one-page summary
 - [`data/ratings_anonymized.csv`](data/ratings_anonymized.csv): rating responses only, one row per respondent
-
-To protect respondents, the public data leave out timestamps and all free-text answers.
+- [Complete response sheet (Google Sheets, view only)](https://docs.google.com/spreadsheets/d/1kkZm5Wym8kDLN1Ui-R4GWC_Ll73rPVWajwHIJB8UHyw/edit?usp=sharing): all 43 anonymous responses, including written comments
 
 ## Contact
 
